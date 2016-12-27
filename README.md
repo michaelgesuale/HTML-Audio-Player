@@ -1,3 +1,3 @@
-# ICS4U
+# HTML Audio Player
 
-Grade 12 Computer Science.
+Just a little something I made for a WordPress blog.
